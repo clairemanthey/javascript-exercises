@@ -5,31 +5,6 @@ const sumAll = function(numOne, numTwo) {
 
 };
 
-/*
-function isNumber(num){
-	if(isNaN(num))
-		{return "Not a number"}
-	else{
-		return "is number"
-	}
-}
-
-function isString(num){
-	if(typeof num == "string"){
-		return "is string"
-	}else 
-}
-
-/*
-console.log(sumAll(1,4));
-console.log(sumAll(10, "90"));
-console.log(sumAll(10, 90));
-console.log(sumAll("10", 3));
-
-console.log(isNumber(3));
-console.log(isNumber("2"));
-console.log(isNumber("ee"));
-*/
 
 // Do not edit below this line
 module.exports = sumAll;
