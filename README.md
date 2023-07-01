@@ -1,15 +1,24 @@
 # JavaScript Exercises
+My solution to the JavaScript Exercises from The Odin Project
 
-These JavaScript exercises are intended to complement the JavaScript content on The Odin Project (TOP). They should only be done when instructed during the course of the curriculum.
+## Table of Contents
+[Introduction](Introduction)
+[Motivation](Motivation)
+[Built With](Built With)
+[How To Do These Exercise](How To Do These Exercise)
+[Acknowledgements](Acknowledgements)
 
-**Note:** The `generator-exercise` file is not actually an exercise; it is a script that generates exercises. It was created to help efficiently write these exercises.
+## Introduction
+These JavaScript Exercises are of the [Foundations Course](https://www.theodinproject.com/paths/foundations/courses/foundations) from [The Odin Project](https://www.theodinproject.com/). The exercises include directions and tests to confirm it met the challenge parameters. THey covered a variety of common JavaScript tasks such changing strings, modifying and removing items from arrays, finding and displaying specific objects from arrays, and doing math functions. 
 
-## Contributing
+## Motivation
+I did these exercises as a part of the JavaScript Basics section in [Foundation Course](https://www.theodinproject.com/paths/foundations/courses/foundations) from [The Odin Project](https://www.theodinproject.com/). I completed that section and course to practice JavaScript and see how much I could do on my own and what I still need to work on.
 
-If you have a suggestion to improve an exercise, an idea for a new exercise, or notice an issue with an exercise, please feel free to open an issue after thoroughly reading our [contributing guide](https://github.com/TheOdinProject/theodinproject/blob/main/CONTRIBUTING.md) in our main TOP repo.
+## Built With
+JavaScript
 
-## How To Use These Exercises
-
+## How To Do These Exercise
+### Directions from The Odin Project
 1. Fork and clone this repository. To learn how to fork a repository, see the GitHub documentation on how to [fork a repo](https://docs.github.com/en/get-started/quickstart/fork-a-repo). 
     * Copies of repositories on your machine are called clones. If you need help cloning to your local environment you can learn how from the GitHub documentation on [cloning a repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository).
 2. Before you start working on any execises, you should first ensure you have the following installed:
@@ -27,6 +36,5 @@ If you have a suggestion to improve an exercise, an idea for a new exercise, or 
 
 The first exercise, `helloWorld`, will walk you through the process in-depth.
 
-## Debugging
-
-To debug functions, you can run the tests in the Visual Studio Code debugger terminal. You can open this by clicking the "Run and Debug" icon on the left or pressing `ctrl + shift + D`, then clicking JavaScript Debug Terminal. You will be able to set breakpoints as you would in the Chrome DevTools debugger. You can run `npm test exerciseName.spec.js` to then execute your code up until your breakpoint and step through your code as necessary. **NOTE**: To take advantage of the debugger, you **MUST** run the script in the debugger terminal, not the bash or zsh terminal.
+## Acknowledgements
+[The Odin Project](https://www.theodinproject.com/) for putting together the curriculum have having their [resources](https://github.com/TheOdinProject/javascript-exercises) easily available
